@@ -58,4 +58,4 @@ The dataset is a synthetic sample built to resemble real pharmacy retail operati
 ## Connect
 
 **Bhushan Wanjale**
-GitHub: [@Bhushan0403](https://github.com/Bhushan0403) · LinkedIn: *add your profile link here*
+LinkedIn: [@BhushanWanjale](https://www.linkedin.com/in/bhushan-wanjale/)
