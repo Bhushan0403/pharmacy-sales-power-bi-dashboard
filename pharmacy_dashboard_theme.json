@@ -1,0 +1,83 @@
+{
+  "name": "Pharmacy Sales Dashboard - Navy & Teal",
+  "dataColors": [
+    "#14B8A6",
+    "#3B82F6",
+    "#7C6FF0",
+    "#F59E0B",
+    "#64748B",
+    "#EC7D9B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#101828",
+  "tableAccent": "#14B8A6",
+  "good": "#22C55E",
+  "neutral": "#F59E0B",
+  "bad": "#EF4444",
+  "maximum": "#14B8A6",
+  "center": "#F59E0B",
+  "minimum": "#EF4444",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#64748B"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 32,
+      "color": "#101828"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#101828"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E5E9F0" } },
+            "radius": 12
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#0F172A" } },
+            "position": "Outer",
+            "preset": "Custom",
+            "shadowSpread": 0,
+            "shadowBlur": 16,
+            "angle": 90,
+            "shadowDistance": 3,
+            "transparency": 93
+          }
+        ],
+        "categoryAxis": [
+          { "gridlineColor": { "solid": { "color": "#EEF1F6" } } }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F4F6FA" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
