@@ -59,3 +59,4 @@ The dataset is a synthetic sample built to resemble real pharmacy retail operati
 
 **Bhushan Wanjale**
 LinkedIn: [@BhushanWanjale](https://www.linkedin.com/in/bhushan-wanjale/)
+Interactive Dashboard: [@PharmacySalesDashboard]([https://www.linkedin.com/in/bhushan-wanjale/](https://app.powerbi.com/view?r=eyJrIjoiYWZkM2VhZWQtYTYxNS00OGE0LTg3NzUtNGVmMDE5ZWQ2MTE5IiwidCI6ImViOTFmNTI1LTBjZjgtNDk2MC1iNjY3LWM4MzYwYzQ2ZmRhYyJ9&pageName=b4fd23235bea9255800f))
